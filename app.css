@@ -1,0 +1,18 @@
+h1 {
+	color: rgba(0,200,100, 0.8);
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+}
+
+
+h4 {
+	background: rgb(255,100,80);
+}
+
+body {
+	background: pink;
+/*	background: url(https://media0.giphy.com/media/3o85xJohCZUc524lSU/giphy.gif);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
